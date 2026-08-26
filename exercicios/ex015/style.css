@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: antiquewhite;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

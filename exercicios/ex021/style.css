@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    margin: 10px;
+    text-align: center;
+}
+
+.menu {
+    background-color: gray;
+    font-size: 20px;
+    margin-bottom: 0px;
+    box-shadow: 0px 2px 5px 0px #000000a6;
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    margin: 50px;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+}
+
+.brasil {
+    background-color: lightgray;
+    color: black;
+    padding: 5px;
+    margin: 30px 10px 30px 10px;
+    text-align: justify;
+    box-shadow: 0px 2px 5px 0px #000000a6;
+    border-radius: 20px 1px 20px 1px;
+}
+
+.brasil > aside {
+    background-color: gray;
+    margin: 30px 0px 30px 0px;
+}
+
+.argentina {
+    background-color: lightgray;
+    color: black;
+    padding: 5px;
+    margin: 30px 10px 30px 10px;
+    text-align: justify;
+    box-shadow: 0px 2px 5px 0px #000000a6;
+    border-radius: 20px 1px 20px 1px;
+}
+
+.argentina > aside {
+    background-color: gray;
+    margin: 30px 0px 30px 0px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    box-shadow: 0px 2px 5px 0px #000000a6;
+}
